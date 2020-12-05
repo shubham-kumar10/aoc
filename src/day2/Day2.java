@@ -21,7 +21,8 @@ public class Day2 {
 	}
 	
 	public static boolean checkPasswordTwo(int low, int high, char ch, String password) {
-		if(password.charAt(low-1)==ch && password.charAt(high-1)!=ch)
+		if((password.charAt(low-1)==ch && password.charAt(high-1)!=ch) || 
+				password.charAt(low-1)!=ch && password.charAt(high-1)==ch)
 			return true;
 		else
 			return false;
