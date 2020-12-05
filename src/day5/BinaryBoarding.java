@@ -9,18 +9,6 @@ import java.util.Collections;
 
 public class BinaryBoarding {
 
-	public static String createBinary(String S) {
-		String result = "";
-		for (int i = 0; i < S.length(); i++) {
-			if (S.charAt(i) == 'F' || S.charAt(i) == 'L') {
-				result = result + '0';
-			} else {
-				result = result + '1';
-			}
-		}
-		return result;
-	}
-
 	public static int binaryToDecimal(String bin) {
 		int result = 0;
 		for (int i = 0; i < bin.length(); i++) {
