@@ -5,7 +5,7 @@
 3. [Day 3: Toboggan Trajectory](https://github.com/shubham-kumar10/aoc/blob/master/src/day2/Day3.java) 
 4. [Day 4: Passport Processing](https://github.com/shubham-kumar10/aoc/blob/master/src/day2/Day4.java) 
 5. [Day 5: Binary Boarding](https://github.com/shubham-kumar10/aoc/blob/master/src/day5/BinaryBoarding.java) 
-6. [Day 6]()
+6. [Day 6: Custom Customs](https://github.com/shubham-kumar10/aoc/blob/master/src/day6/CustomCustoms.java)
 7. [Day 7]()
 8. [Day 8]()
 9. [Day 9]()
